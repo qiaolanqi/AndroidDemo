@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ApiDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_hello_world">BitmapConcat</string>
+    <string name="activity_mvp">M-V-P</string>
+    <string name="activity_drawable">Drawable</string>
+</resources>
