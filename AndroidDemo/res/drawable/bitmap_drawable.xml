@@ -5,5 +5,5 @@
     android:filter="true"
     android:gravity="center"
     android:mipMap="true"
-    android:src="@drawable/ic_launcher"
+    android:src="@drawable/ic_favor"
     android:tileMode="mirror" />
